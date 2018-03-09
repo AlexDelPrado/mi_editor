@@ -9,7 +9,7 @@ def nuevo():
 	mensaje.set("Nuevo Fichero")
 	ruta = ""
 	texto.delete(1.0, "end")
-	root.title("Mi editor")
+	root.title("Mi first editor")
 
 
 def abrir():
